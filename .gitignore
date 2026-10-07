@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/joctwa.github.io/config/applicationhost.config
+/.vs/joctwa.github.io/FileContentIndex/eaac67fd-86df-4c1e-96c5-8e95f801d41b.vsidx
+/.vs/joctwa.github.io/FileContentIndex
+/.vs/joctwa.github.io/v17
+/.vs
