@@ -42,4 +42,7 @@ ul {
 ul li {
     display: flex;
     justify-content: center;
+    padding: 150px;
+    border-style:double;
+    border-radius:5px;
 }
