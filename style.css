@@ -15,11 +15,22 @@ h2 {
     font-size: 22px;
 }
 
-table {
+div {
+    width: 750px;
+    margin: auto;
     border-style: double;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 16px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
 }
