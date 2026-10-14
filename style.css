@@ -17,6 +17,9 @@ h2 {
 
 table {
     border-style: double;
+    border-radius: 5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    width:100%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
