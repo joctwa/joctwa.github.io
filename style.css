@@ -44,8 +44,9 @@ ul li {
     margin: 5px;
     border-style: double;
     border-radius: 5px;
+    opacity: 0.9;
 }
 
-.pageHeader {
-    background-image: url("resources/header1.jpg");
+header {
+    background-image: url("resources/header1.JPG");
 }
