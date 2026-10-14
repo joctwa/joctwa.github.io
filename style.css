@@ -26,6 +26,7 @@ div {
 a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
+    color: peru
 }
 
 ul {
@@ -44,6 +45,7 @@ ul li {
     margin: 5px;
     border-style: double;
     border-radius: 5px;
+    color: papayawhip;
     opacity: 0.9;
 }
 
