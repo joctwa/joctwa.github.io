@@ -49,6 +49,6 @@ ul li {
     opacity: 0.9;
 }
 
-header {
-    background: url("resources/header1.JPG");
+body {
+    background: url("resources/background.JPG")
 }
